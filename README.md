@@ -19,15 +19,10 @@ Here you’ll find my projects, experiments, and contributions.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-000000?style=flat&logo=codereview&logoColor=white)
-![Data Structures](https://img.shields.io/badge/-Data_Structures-4CAF50?style=flat&logo=treehouse&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem_Solving-FF9800?style=flat&logo=codeforces&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![UI/UX](https://img.shields.io/badge/-UI%2FUX_Principles-000000?style=flat&logo=figma&logoColor=white)
+
 
 ## 🚀 Projects
 - [Portfolio Website (Live)](https://portfolio-jet-iota-19.vercel.app/) | [Code](https://github.com/nourbatniji/Portfolio)  
