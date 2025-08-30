@@ -2,6 +2,32 @@
 
 Welcome to my GitHub profile! I'm a passionate Computer Engineering student and aspiring Full Stack Developer.  
 Here you’ll find my projects, experiments, and contributions.
+## 🚀 Technologies & Tools  
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/-AJAX-00758F?style=flat&logo=javascript&logoColor=white)
+![DOM](https://img.shields.io/badge/-DOM-FFCA28?style=flat&logo=html5&logoColor=black)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-000000?style=flat&logo=codereview&logoColor=white)
+![Data Structures](https://img.shields.io/badge/-Data_Structures-4CAF50?style=flat&logo=treehouse&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem_Solving-FF9800?style=flat&logo=codeforces&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![UI/UX](https://img.shields.io/badge/-UI%2FUX_Principles-000000?style=flat&logo=figma&logoColor=white)
 
 ## 🚀 Projects
 - [Portfolio Website (Live)](https://portfolio-jet-iota-19.vercel.app/) | [Code](https://github.com/nourbatniji/Portfolio)  
