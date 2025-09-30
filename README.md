@@ -37,16 +37,16 @@ Here you’ll find my projects, experiments, and contributions.
 ## 🌱 Learning & Growth
 Currently exploring:
 - Advanced JavaScript and React
-- Backend Development (Node.js, Express, MongoDB)
+- Backend Development (Python)
 
 ## 🤝 Collaboration
 I'm open to collaborating on interesting projects, especially in:
 - Frontend (React, Next.js, Tailwind)
-- Backend (Node.js, Python, Java)
+- Backend (Python, Java, Flask, SQL)
 
 ## 💬 Ask Me About
 - Web Development (HTML, CSS, JS, React)
-- Backend Development (Node.js, Express, Python, Java)
+- Backend Development (Python, Java, Flask, SQL)
 - Problem Solving & Algorithms
 
 ## 📫 How to reach me
