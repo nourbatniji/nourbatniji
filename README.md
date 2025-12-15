@@ -6,19 +6,14 @@ Here you’ll find my projects, experiments, and continuous learning journey.
 
 ---
 
-## 🚀 Technologies & Tools  
+## 🛠️ Tech Stack
 
-**Frontend:**  
-HTML5 · CSS3 · JavaScript · React · Next.js · TypeScript · Redux · Tailwind CSS · Bootstrap · SASS · jQuery · AJAX · DOM  
-
-**Backend:**  
-Python · Django · Flask · Java · OOP  
-
-**Databases:**  
-MySQL · PostgreSQL · SQLite  
-
-**DevOps & Tools:**  
-Git · GitHub · Linux · AWS EC2 · Nginx · Gunicorn
+| Area | Technologies |
+|------|-------------|
+| Frontend | HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind |
+| Backend | Python, Django, Flask, Java |
+| Databases | MySQL, PostgreSQL, SQLite |
+| DevOps | Git, GitHub, Linux, AWS EC2, Nginx |
 
 ---
 
