@@ -29,9 +29,11 @@ Here you’ll find my projects, experiments, and continuous learning journey.
 
 - **Portfolio Website (Frontend Project)**  
   [Live](https://portfolio-jet-iota-19.vercel.app/) | [Code](https://github.com/nourbatniji/Portfolio)
+  A responsive personal portfolio website showcasing my skills, projects, and contact information.
 
 - **E-Commerce Website (Frontend React Application)**  
   [Live](https://e-commerce-beta-seven-92.vercel.app/) | [Code](https://github.com/nourbatniji/E-commerce)
+  A responsive shopping platform with product listing, cart functionality, and checkout flow built using React.
 
 ---
 
