@@ -9,6 +9,7 @@ Here you’ll find my projects, experiments, and continuous learning journey.
 ## 🚀 Technologies & Tools  
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -26,6 +27,7 @@ Here you’ll find my projects, experiments, and continuous learning journey.
 ![DOM](https://img.shields.io/badge/-DOM-FFCA28?style=flat&logo=html5&logoColor=black)
 
 ### Backend
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -33,11 +35,13 @@ Here you’ll find my projects, experiments, and continuous learning journey.
 ![OOP](https://img.shields.io/badge/-OOP-000000?style=flat&logo=codereview&logoColor=white)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### DevOps & Tools
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
