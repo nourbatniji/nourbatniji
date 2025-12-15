@@ -25,8 +25,6 @@ Here you’ll find my projects, experiments, and continuous learning journey.
 ![AJAX](https://img.shields.io/badge/-AJAX-00758F?style=flat&logo=javascript&logoColor=white)
 ![DOM](https://img.shields.io/badge/-DOM-FFCA28?style=flat&logo=html5&logoColor=black)
 
----
-
 ### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
@@ -34,14 +32,10 @@ Here you’ll find my projects, experiments, and continuous learning journey.
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-000000?style=flat&logo=codereview&logoColor=white)
 
----
-
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
----
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -57,19 +51,17 @@ Here you’ll find my projects, experiments, and continuous learning journey.
 
 - **StudySync (Full-Stack Django Application)**  
   [Code](https://github.com/nourbatniji/StudySync)  
-  A productivity and study-planning web application built with Django that helps students manage exams, tasks, and study sessions. It includes user authentication, exam scheduling, task tracking, Pomodoro-style focus sessions, dynamic dashboards, and visual progress indicators.
+  A productivity and study-planning web application built with Django that helps students manage exams, tasks, and study sessions.
 
 - **CodeQuest (Full-Stack Django Application)**  
   [Code](https://github.com/nourbatniji/CodeQuest)  
-  A coding challenge and classroom management platform developed using Django. It supports mentor and student roles, classrooms, challenges, submissions, leaderboards, and points/badges systems, with a strong focus on role-based access control and relational database design.
+  A coding challenge and classroom management platform with mentor/student roles, challenges, submissions, and leaderboards.
 
 - **Portfolio Website (Frontend Project)**  
-  [Live](https://portfolio-jet-iota-19.vercel.app/) | [Code](https://github.com/nourbatniji/Portfolio)  
-  A responsive personal portfolio website showcasing my skills, projects, and contact information.
+  [Live](https://portfolio-jet-iota-19.vercel.app/) | [Code](https://github.com/nourbatniji/Portfolio)
 
 - **E-Commerce Website (Frontend React Application)**  
-  [Live](https://e-commerce-beta-seven-92.vercel.app/) | [Code](https://github.com/nourbatniji/E-commerce)  
-  A responsive shopping platform with product listing, cart functionality, and checkout flow built using React.
+  [Live](https://e-commerce-beta-seven-92.vercel.app/) | [Code](https://github.com/nourbatniji/E-commerce)
 
 ---
 
@@ -77,25 +69,8 @@ Here you’ll find my projects, experiments, and continuous learning journey.
 Currently focusing on:
 - Advanced Django & REST-style APIs  
 - Full-stack system design  
-- Deployment, servers, and production basics  
-- Data Structures & Algorithms
-
----
-
-## 🤝 Collaboration
-I’m open to collaborating on:
-- Frontend projects (React, Next.js, UI/UX)
-- Full-stack Django applications
-- Learning-focused or real-world practice projects
-
----
-
-## 💬 Ask Me About
-- Frontend Development (HTML, CSS, JS, React)
-- Django & Backend Fundamentals
-- Databases & Authentication
-- Deployment basics (Linux, AWS, Nginx)
-- Problem Solving & Algorithms
+- Deployment and production basics  
+- Data Structures & Algorithms  
 
 ---
 
