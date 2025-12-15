@@ -67,7 +67,7 @@ Here you’ll find my projects, experiments, and continuous learning journey.
   A responsive shopping platform with product listing, cart functionality, and checkout flow.
 ---
 
-## 🌱 Learning & Growth
+## Learning & Growth
 Currently focusing on:
 - Advanced Django & REST-style APIs  
 - Full-stack system design  
@@ -76,7 +76,7 @@ Currently focusing on:
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 I’m open to collaborating on:
 - Frontend projects (React, Next.js, UI/UX)
 - Full-stack Django applications
@@ -84,7 +84,7 @@ I’m open to collaborating on:
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 - Frontend Development (HTML, CSS, JS, React)
 - Django & Backend Fundamentals
 - Databases & Authentication
@@ -93,7 +93,7 @@ I’m open to collaborating on:
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 - **LinkedIn:** https://www.linkedin.com/in/nour-batniji-366611311/  
 - **Email:** nour.albattniji@gmail.com  
 - **Portfolio:** https://portfolio-jet-iota-19.vercel.app/
