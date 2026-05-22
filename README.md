@@ -1,4 +1,4 @@
-# Hi there, I'm Nour Albattniji 👋
+# Hi there, I'm Nour Albatniji 👋
 
 Welcome to my GitHub profile!  
 I'm a **Computer Engineering student** and an **aspiring Full-Stack Developer** with hands-on experience building real projects, solving problems, and deploying applications.  
