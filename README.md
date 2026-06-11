@@ -1,52 +1,46 @@
-# Hi there, I'm Nour Albatniji 👋
+# Hi, I'm Nour Albatniji
 
-Welcome to my GitHub profile!  
-I'm a **Computer Engineering student** and an **aspiring Full-Stack Developer** with hands-on experience building real projects, solving problems, and deploying applications.  
-Here you’ll find my projects, experiments, and continuous learning journey.
+I'm a Computer Engineering student and aspiring Full-Stack Developer with hands-on experience building real projects and deploying applications.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-| Area | Technologies |
-|------|-------------|
-| Frontend | HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind |
-| Backend | Python, Django, Flask, Java |
-| Databases | MySQL, PostgreSQL, SQLite |
-| DevOps | Git, GitHub, Linux, AWS EC2, Nginx |
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind  
+**Backend:** Python, Django, Flask, Java  
+**Databases:** MySQL, PostgreSQL, SQLite  
+**DevOps:** Git, GitHub, Linux, AWS EC2, Nginx
 
 ---
 
-## 🚀 Projects
+## Projects
 
-- **StudySync (Full-Stack Django Application)**  
-  [Code](https://github.com/nourbatniji/StudySync)  
-  A productivity and study-planning web application built with Django that helps students manage exams, tasks, and study sessions.
+**StudySync** — Full-Stack Django Application  
+A productivity and study-planning app that helps students manage exams, tasks, and study sessions.  
+[Code](https://github.com/nourbatniji/StudySync)
 
-- **CodeQuest (Full-Stack Django Application)**  
-  [Code](https://github.com/nourbatniji/CodeQuest)  
-  A coding challenge and classroom management platform with mentor/student roles, challenges, submissions, and leaderboards.
+**CodeQuest** — Full-Stack Django Application  
+A coding challenge and classroom management platform with mentor/student roles, submissions, and leaderboards.  
+[Code](https://github.com/nourbatniji/CodeQuest)
 
-- **Portfolio Website (Frontend Project)**  
-  [Live](https://portfolio-jet-iota-19.vercel.app/) | [Code](https://github.com/nourbatniji/Portfolio)
-  A responsive personal portfolio website showcasing my skills, projects, and contact information.
+**Portfolio Website** — Frontend Project  
+A responsive personal portfolio showcasing my skills, projects, and contact info.  
+[Live](https://portfolio-jet-iota-19.vercel.app/) | [Code](https://github.com/nourbatniji/Portfolio)
 
-- **E-Commerce Website (Frontend React Application)**  
-  [Live](https://e-commerce-beta-seven-92.vercel.app/) | [Code](https://github.com/nourbatniji/E-commerce)
-  A responsive shopping platform with product listing, cart functionality, and checkout flow built using React.
-
----
-
-## 🌱 Learning & Growth
-Currently focusing on:
-- Advanced Django & REST-style APIs  
-- Full-stack system design  
-- Deployment and production basics  
-- Data Structures & Algorithms  
+**E-Commerce Website** — Frontend React Application  
+A shopping platform with product listing, cart functionality, and checkout flow.  
+[Live](https://e-commerce-beta-seven-92.vercel.app/) | [Code](https://github.com/nourbatniji/E-commerce)
 
 ---
 
-## 📫 How to Reach Me
-- **LinkedIn:** https://www.linkedin.com/in/nour-batniji-366611311/  
-- **Email:** nour.albattniji@gmail.com  
-- **Portfolio:** https://portfolio-jet-iota-19.vercel.app/
+## Currently Learning
+
+Advanced Django and REST APIs, full-stack system design, deployment and production basics, Data Structures and Algorithms.
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/nour-batniji-366611311/  
+Email: nour.albattniji@gmail.com  
+Portfolio: https://portfolio-jet-iota-19.vercel.app/
