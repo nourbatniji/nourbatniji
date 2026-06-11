@@ -13,12 +13,15 @@ I'm a Computer Engineering student and aspiring Full-Stack Developer with hands-
 **StudySync** — Full-Stack Django Application  
 A productivity and study-planning app that helps students manage exams, tasks, and study sessions.  
 [Code](https://github.com/nourbatniji/StudySync)
+
 **CodeQuest** — Full-Stack Django Application  
 A coding challenge and classroom management platform with mentor/student roles, submissions, and leaderboards.  
 [Code](https://github.com/nourbatniji/CodeQuest)
+
 **Portfolio Website** — Frontend Project  
 A responsive personal portfolio showcasing my skills, projects, and contact info.  
 [Live](https://portfolio-jet-iota-19.vercel.app/) | [Code](https://github.com/nourbatniji/Portfolio)
+
 **E-Commerce Website** — Frontend React Application  
 A shopping platform with product listing, cart functionality, and checkout flow.  
 [Live](https://e-commerce-beta-seven-92.vercel.app/) | [Code](https://github.com/nourbatniji/E-commerce)
