@@ -1,4 +1,4 @@
-# Hi, I'm Nour Albatniji
+# Nour Albatniji
 I'm a Computer Engineering student and aspiring Full-Stack Developer with hands-on experience building real projects and deploying applications.
 
 ---
