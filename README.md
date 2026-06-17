@@ -1,6 +1,6 @@
 # Full-Stack Developer | Python & React | Django & Next.js
 
-Full-stack developer who builds and ships real products — from responsive frontends to deployed backend systems. Passionate about clean code, problem-solving, and creating things that actually work.
+I'm a full-stack developer who builds real, deployed applications from the ground up. My work spans responsive frontends built with React and Next.js, to backend systems powered by Django and REST APIs, to cloud deployments on AWS. I've gone through 660+ hours of intensive coding training, built solo and team projects, and I'm constantly pushing to level up. I care about writing clean code, solving hard problems, and shipping things that actually make an impact.
 
 ---
 
