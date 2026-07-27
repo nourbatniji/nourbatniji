@@ -6,10 +6,10 @@ I build full-stack web applications from problem to production. React, Next.js, 
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, Sass, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap  
-**Backend:** Python, Django, Django REST Framework, Java  
-**Databases:** MySQL, PostgreSQL, SQLite  
-**Tools & Deployment:** Git, GitHub, AWS EC2, Vercel, Netlify, Node.js, Axios, Ajax
+**Frontend:** HTML, CSS, Sass, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap.
+**Backend:** Python, Django, Django REST Framework, Java.  
+**Databases:** MySQL, PostgreSQL, SQLite.  
+**Tools & Deployment:** Git, GitHub, AWS EC2, Vercel, Netlify, Node.js, Axios, Ajax.
 
 ---
 
