@@ -1,4 +1,4 @@
-# Full-Stack Developer | Django & React
+# Nour Albatniji
 
 I build full-stack web applications from problem to production. React, Next.js, Django, PostgreSQL, AWS. Comfortable owning a project from the first requirement conversation to the live deployment.
 
