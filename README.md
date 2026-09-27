@@ -1,4 +1,4 @@
-# Aspiring Software Engineer | Full-Stack Develper
+# Aspiring Software Engineer | Full-Stack Developer
 
 I build full-stack web applications from problem to production. React, Next.js, Django, PostgreSQL, AWS. Comfortable owning a project from the first requirement conversation to the live deployment.
 
